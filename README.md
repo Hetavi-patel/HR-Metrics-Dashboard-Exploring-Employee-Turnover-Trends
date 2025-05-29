@@ -1,4 +1,3 @@
-# HR-Metrics-Dashboard-Exploring-Employee-Turnover-Trends
 # 📊 HR Analytics Dashboard – Attrition & Workforce Insights
 
 ## 🧾 Project Overview
